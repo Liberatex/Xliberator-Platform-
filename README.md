@@ -1,4 +1,4 @@
-# Atlas
+# Xliberator Platform 
 The Platform to find the others on a similar quest. A space where mutual systemic problems are transformed into collective understanding to reveal solutions. 
 Information on Theme Template is found below:
 
